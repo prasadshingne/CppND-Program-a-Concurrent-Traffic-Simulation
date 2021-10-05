@@ -58,3 +58,7 @@ Task FP.5a is in [TrafficLight.cpp](https://github.com/prasadshingne/CppND-Progr
 
 Task FP.6a is in [Intersection.h, line 9 and 58](https://github.com/prasadshingne/CppND-Program-a-Concurrent-Traffic-Simulation/blob/b32d7fd5a427b5ef1a839d8463298d0e7d45329f/src/Intersection.h#L9) and [Intersection.cpp, line 113](https://github.com/prasadshingne/CppND-Program-a-Concurrent-Traffic-Simulation/blob/b32d7fd5a427b5ef1a839d8463298d0e7d45329f/src/Intersection.cpp#L113). Task FP.6b on [line 90](https://github.com/prasadshingne/CppND-Program-a-Concurrent-Traffic-Simulation/blob/b32d7fd5a427b5ef1a839d8463298d0e7d45329f/src/Intersection.cpp#L90).
 
+## Output looks like:
+
+<img src="data/traffic_simulation_out.gif"/>
+
